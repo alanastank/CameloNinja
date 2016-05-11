@@ -9,7 +9,6 @@ namespace CameloNinja.Controllers
 {
     public class PedidoController : Controller
     {
-        // GET: Pedido
         public ActionResult Index()
         {
             return View();
