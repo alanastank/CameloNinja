@@ -9,6 +9,7 @@ namespace CameloNinja.Models
 {
     public class PedidoModel
     {
+        [DisplayName("Data do Pedido")]
         public DateTime DataPedido { get; set; }
 
         public PedidoModel()
@@ -17,7 +18,7 @@ namespace CameloNinja.Models
         }
 
         [Required(ErrorMessage = "Data de Entrega deve ser informada")]
-        [DisplayName("Data desejada de entrega")]
+        [DisplayName("Data de Entrega")]
         public DateTime DataDesejoEntrega { get; set; }
 
         [Required(ErrorMessage = "Nome do Produto deve ser informado")]
