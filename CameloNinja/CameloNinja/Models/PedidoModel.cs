@@ -27,7 +27,8 @@ namespace CameloNinja.Models
 
         [Required(ErrorMessage = "Valor de venda deve ser informado")]
         [DisplayName("Valor de Venda")]
-        public float ValorDeVenda { get; set; }
+        [DisplayFormat(DataFormatString = "{0:c}", ApplyFormatInEditMode = true)]
+        public Decimal ValorDeVenda { get; set; }
 
         [Required]
         [DisplayName("Tipo de Pagamento")]
