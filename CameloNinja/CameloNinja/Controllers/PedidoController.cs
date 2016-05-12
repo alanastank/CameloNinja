@@ -1,11 +1,11 @@
-﻿using CameloNinja.Models;
+﻿using CameloNinja.MVC.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace CameloNinja.Controllers
+namespace CameloNinja.MVC.Controllers
 {
     public class PedidoController : Controller
     {
@@ -16,7 +16,14 @@ namespace CameloNinja.Controllers
 
         public ActionResult Detalhes(PedidoModel model)
         {
-            return View(model);
+            if (ModelState.IsValid)
+            {
+                return View("Detalhes", model);
+            }
+            else
+            {
+                return View("Index", model);
+            }
         }
     }
 }
