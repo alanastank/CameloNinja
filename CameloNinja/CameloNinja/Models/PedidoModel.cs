@@ -23,7 +23,7 @@ namespace CameloNinja.Models
 
         [Required]
         [DisplayName("Tipo de Pagamento")]
-        public string TipoDePagamento { get; set; }
+        public TipoPagamento TipoDePagamento { get; set; }
 
         [Required(ErrorMessage = "Nome do Cliente deve ser informado")]
         [DisplayName("Nome do Cliente")]
