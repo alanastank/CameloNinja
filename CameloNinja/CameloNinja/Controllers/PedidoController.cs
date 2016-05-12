@@ -14,7 +14,7 @@ namespace CameloNinja.Controllers
             return View();
         }
 
-        public ActionResult Resultado(PedidoModel model)
+        public ActionResult Detalhes(PedidoModel model)
         {
             return View(model);
         }
