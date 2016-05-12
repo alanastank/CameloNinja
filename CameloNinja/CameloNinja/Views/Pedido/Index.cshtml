@@ -40,7 +40,7 @@
         <div class="form-group">
             @Html.LabelFor(model => model.TipoDePagamento, htmlAttributes: new { @class = "control-label col-md-2" })
             <div class="col-md-10">
-                @Html.DropDownListFor(model => model.TipoDePagamento, new SelectList(Enum.GetValues(typeof(CameloNinja.Models.TipoPagamento))), new { @class = "form-control" })
+                @Html.EnumDropDownListFor(model => model.TipoDePagamento, new { @class = "form-control" })
                 @Html.ValidationMessageFor(model => model.TipoDePagamento, "", new { @class = "text-danger" })
             </div>
         </div>
