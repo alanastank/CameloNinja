@@ -1,12 +1,16 @@
-﻿@model CameloNinja.Models.PedidoModel
+﻿@{
+    ViewBag.Title = "Cadastro de pedidos";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
 
+@model CameloNinja.Models.PedidoModel
 
 @using (Html.BeginForm("Detalhes","Pedido")) 
 {
     @Html.AntiForgeryToken()
     
     <div class="form-horizontal" >
-        <h4>PedidoModel</h4>
+        <h2>Cadastro de Pedidos</h2>
         <hr />
         @Html.ValidationSummary(true, "", new { @class = "text-danger" })
         <div class="form-group">
@@ -72,10 +76,6 @@
         </div>
     </div>
 }
-
-<div>
-    @Html.ActionLink("Back to List", "Index")
-</div>
 
 <script src="~/Scripts/jquery-1.10.2.min.js"></script>
 <script src="~/Scripts/jquery.validate.min.js"></script>
