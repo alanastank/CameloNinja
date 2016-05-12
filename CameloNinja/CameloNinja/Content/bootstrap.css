@@ -1145,8 +1145,8 @@ img {
   border-radius: 50%;
 }
 hr {
-  margin-top: 20px;
-  margin-bottom: 20px;
+  margin-top: 16px;
+  margin-bottom: 16px;
   border: 0;
   border-top: 1px solid #eee;
 }
@@ -1455,15 +1455,13 @@ dd {
 @media (min-width: 768px) {
   .dl-horizontal dt {
     float: left;
-    width: 160px;
-    overflow: hidden;
     clear: left;
     text-align: right;
     text-overflow: ellipsis;
     white-space: nowrap;
   }
   .dl-horizontal dd {
-    margin-left: 180px;
+    margin-left: 200px;
   }
 }
 abbr[title],
