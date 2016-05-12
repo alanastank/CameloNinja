@@ -9,6 +9,13 @@ namespace CameloNinja.Models
 {
     public class PedidoModel
     {
+        public DateTime DataPedido { get; set; }
+
+        public PedidoModel()
+        {
+            DataPedido = DateTime.Now;
+        }
+
         [Required(ErrorMessage = "Data de Entrega deve ser informada")]
         [DisplayName("Data desejada de entrega")]
         public DateTime DataDesejoEntrega { get; set; }
