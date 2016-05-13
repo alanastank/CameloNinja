@@ -1,0 +1,11 @@
+C:\Users\marcelo.moura\Desktop\crescer-2016-1\src\modulo-05-c#\dia05\CameloNinja\CameloNinja.Test\bin\Debug\CameloNinja.Test.dll
+C:\Users\marcelo.moura\Desktop\crescer-2016-1\src\modulo-05-c#\dia05\CameloNinja\CameloNinja.Test\bin\Debug\CameloNinja.Test.pdb
+C:\Users\marcelo.moura\Desktop\crescer-2016-1\src\modulo-05-c#\dia05\CameloNinja\CameloNinja.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\marcelo.moura\Desktop\crescer-2016-1\src\modulo-05-c#\dia05\CameloNinja\CameloNinja.Test\obj\Debug\CameloNinja.Test.dll
+C:\Users\marcelo.moura\Desktop\crescer-2016-1\src\modulo-05-c#\dia05\CameloNinja\CameloNinja.Test\obj\Debug\CameloNinja.Test.pdb
+D:\Git\crescer-2016-1\src\modulo-05-c#\dia05\CameloNinja\CameloNinja.Test\bin\Debug\CameloNinja.Test.dll
+D:\Git\crescer-2016-1\src\modulo-05-c#\dia05\CameloNinja\CameloNinja.Test\bin\Debug\CameloNinja.Test.pdb
+D:\Git\crescer-2016-1\src\modulo-05-c#\dia05\CameloNinja\CameloNinja.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Git\crescer-2016-1\src\modulo-05-c#\dia05\CameloNinja\CameloNinja.Test\obj\Debug\CameloNinja.Test.csprojResolveAssemblyReference.cache
+D:\Git\crescer-2016-1\src\modulo-05-c#\dia05\CameloNinja\CameloNinja.Test\obj\Debug\CameloNinja.Test.dll
+D:\Git\crescer-2016-1\src\modulo-05-c#\dia05\CameloNinja\CameloNinja.Test\obj\Debug\CameloNinja.Test.pdb

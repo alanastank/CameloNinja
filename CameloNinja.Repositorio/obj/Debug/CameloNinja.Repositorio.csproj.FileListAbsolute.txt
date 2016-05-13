@@ -1,0 +1,14 @@
+C:\Users\marcelo.moura\Desktop\crescer-2016-1\src\modulo-05-c#\dia05\CameloNinja\CameloNinja.Repositorio\obj\Debug\CameloNinja.Repositorio.csprojResolveAssemblyReference.cache
+C:\Users\marcelo.moura\Desktop\crescer-2016-1\src\modulo-05-c#\dia05\CameloNinja\CameloNinja.Repositorio\bin\Debug\CameloNinja.Repositorio.dll
+C:\Users\marcelo.moura\Desktop\crescer-2016-1\src\modulo-05-c#\dia05\CameloNinja\CameloNinja.Repositorio\bin\Debug\CameloNinja.Repositorio.pdb
+C:\Users\marcelo.moura\Desktop\crescer-2016-1\src\modulo-05-c#\dia05\CameloNinja\CameloNinja.Repositorio\bin\Debug\CameloNinja.Dominio.dll
+C:\Users\marcelo.moura\Desktop\crescer-2016-1\src\modulo-05-c#\dia05\CameloNinja\CameloNinja.Repositorio\bin\Debug\CameloNinja.Dominio.pdb
+C:\Users\marcelo.moura\Desktop\crescer-2016-1\src\modulo-05-c#\dia05\CameloNinja\CameloNinja.Repositorio\obj\Debug\CameloNinja.Repositorio.dll
+C:\Users\marcelo.moura\Desktop\crescer-2016-1\src\modulo-05-c#\dia05\CameloNinja\CameloNinja.Repositorio\obj\Debug\CameloNinja.Repositorio.pdb
+D:\Git\crescer-2016-1\src\modulo-05-c#\dia05\CameloNinja\CameloNinja.Repositorio\bin\Debug\CameloNinja.Repositorio.dll
+D:\Git\crescer-2016-1\src\modulo-05-c#\dia05\CameloNinja\CameloNinja.Repositorio\bin\Debug\CameloNinja.Repositorio.pdb
+D:\Git\crescer-2016-1\src\modulo-05-c#\dia05\CameloNinja\CameloNinja.Repositorio\bin\Debug\CameloNinja.Dominio.dll
+D:\Git\crescer-2016-1\src\modulo-05-c#\dia05\CameloNinja\CameloNinja.Repositorio\bin\Debug\CameloNinja.Dominio.pdb
+D:\Git\crescer-2016-1\src\modulo-05-c#\dia05\CameloNinja\CameloNinja.Repositorio\obj\Debug\CameloNinja.Repositorio.csprojResolveAssemblyReference.cache
+D:\Git\crescer-2016-1\src\modulo-05-c#\dia05\CameloNinja\CameloNinja.Repositorio\obj\Debug\CameloNinja.Repositorio.dll
+D:\Git\crescer-2016-1\src\modulo-05-c#\dia05\CameloNinja\CameloNinja.Repositorio\obj\Debug\CameloNinja.Repositorio.pdb
